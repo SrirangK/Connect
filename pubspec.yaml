@@ -31,9 +31,8 @@ dependencies:
   flutter_screenutil:
   date_format:
   photo_manager:
-  video_player:
+
   share_plus:
-  agora_uikit:
   uuid:
   fluttertoast:
   intl:
